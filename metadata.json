@@ -1,0 +1,5 @@
+{
+  "name": "FlowState AI Planner",
+  "description": "An intelligent daily planner that optimizes your schedule based on energy levels, priorities, and deadlines using Gemini AI.",
+  "requestFramePermissions": []
+}
